@@ -23,7 +23,7 @@ ClauseForce automatically detects risks, contradictions, and conflicts between a
 - [Running the Application](#running-the-application)
 - [API Key Access](#api-key-access)
 - [Project Structure](#project-structure)
-- [Team](#team)
+
 
 ---
 
@@ -261,16 +261,4 @@ Contract-SOW-Risk-Analyzer/
 └── .gitignore
 ```
 
----
 
-## Team
-
-**Team ClauseForce — Team 14**
-
-| Name | Role |
-|---|---|
-| Aryan Jain | Team Lead, Backend |
-| Vanshika Garg | Frontend |
-| Aryan Kataria | Backend |
-| Devashish Gupta | API Integration |
-| Panvir Singh | Database Integration |
