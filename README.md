@@ -1,8 +1,7 @@
 # ClauseForce — AI-Powered Contract & SOW Risk Analyzer
 
-> **Tech Mahindra CODE Hackathon | Team 14 | Problem Statement 04**
 
-ClauseForce automatically detects risks, contradictions, and conflicts between a Master Service Agreement (MSA) and a Statement of Work (SOW). What takes a lawyer 4–6 hours is done in under 2 minutes — with AI-generated redlines, severity scores, and an interactive clause knowledge graph.
+ClauseForce automatically detects risks, contradictions, and conflicts between a Master Service Agreement (MSA) and a Statement of Work (SOW). What takes a lawyer 15–20 hours is done in under 2 minutes — with AI-generated redlines, severity scores, and an interactive clause knowledge graph.
 
 ## Demo Video
 
@@ -206,9 +205,9 @@ This project uses the **Google Gemini API** (free tier).
 
 To get your own API key: [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
 
-If you need access to the API keys used during the hackathon for evaluation/testing purposes, contact:
+If you need access to the API keys for evaluation/testing purposes, contact:
 
-**Aryan Jain (Team Lead)**
+**Aryan Jain**
 - Email: aryanjain8130@gmail.com
 - Phone: 9810577964
 
